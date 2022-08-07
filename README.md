@@ -43,3 +43,10 @@ among others.
 Imacon scsi scanners like: Photo, Precision II & III,
 designed for PowerPC G4 work ok in OSX SnowLeopard 10.6.8 with Rosetta Emulator.
 Precision III was a paid Firmware upgrade for II owners, included a CD and Serial nurmber.
+
+P.D. HD7950 does Not work using eGPU + Thunderbolt 2/3 on MacMini 2014
+eGPU with Thunderbolt2 macs work upto OSX 10.13.3 or 10.13.4 Beta4
+eGPU with TB2 was Deleted in OSX 10.13.4
+eGPU with TB3 was added in OSX 10.13.4
+
+
