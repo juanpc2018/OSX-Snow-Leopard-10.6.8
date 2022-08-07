@@ -34,10 +34,11 @@ But some are Abandonware, Never updated for intel, like Apple Shake!
 Older versions of Firefox and Opera work but are too outdated to work with modern web pages.
 
 Universal Apps desgined for hydrid intel version of OSX Leopard 10.5.8 break compatibility in SnowLeopard,
-Requires Native intel apps or Native PowerPC G4 apps, Not Hybrid Universal apps. 
-Black List inclides: [[Parallels Desktop]] 3.0, 
-[[Aperture (photography software)|Aperture]] before 2.1.1,
-[[Keynote (presentation software)|Keynote]] before 2.0.2, 
+Requires Native intel or Native PowerPC G4 apps, Not Hybrid Universal apps. 
+Black List includes: 
+Parallels Desktop v3.0, 
+Aperture (photography software)before v2.1.1,
+Keynote (presentation software)before 2.0.2, 
 among others.
 
 Imacon scsi scanners like: Photo, Precision II & III,
